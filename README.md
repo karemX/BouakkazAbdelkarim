@@ -71,13 +71,12 @@ Focused on building fast, scalable, and intelligent user experiences.
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouakkazabdelkarim&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karemX&show_icons=true&theme=radical" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouakkazabdelkarim&show_icons=true&locale=en" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karemX&layout=compact&theme=radical" />
 </p>
