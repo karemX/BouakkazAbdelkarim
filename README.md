@@ -80,3 +80,8 @@ Focused on building fast, scalable, and intelligent user experiences.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karemX&layout=compact&theme=radical" />
 </p>
+## 🟩 GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/karemX" alt="GitHub Contributions Chart" />
+</p>
